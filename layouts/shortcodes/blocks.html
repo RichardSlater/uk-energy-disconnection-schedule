@@ -1,0 +1,5 @@
+<ul class="load-block">
+{{ range .Site.Data.block.index }}
+    <li><a href="/blocks/{{ . }}/">{{ . }}</a></li>
+{{ end }}
+</ul>

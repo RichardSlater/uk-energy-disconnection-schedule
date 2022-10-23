@@ -1,0 +1,24 @@
+[
+  {
+    "level": 1,
+    "day": "Friday",
+    "block": "T",
+    "period": 4,
+    "times": {
+      "start": "09:30:00",
+      "end": "12:30:00"
+    },
+    "timeframe": "09:30-12:30"
+  },
+  {
+    "level": 1,
+    "day": "Saturday",
+    "block": "T",
+    "period": 1,
+    "times": {
+      "start": "00:30:00",
+      "end": "03:30:00"
+    },
+    "timeframe": "00:30-03:30"
+  }
+]

@@ -1,0 +1,4 @@
+baseURL: 'http://example.org/'
+languageCode: 'en-gb'
+title: 'UK Energy Disconnection Schedule'
+theme: PaperMod

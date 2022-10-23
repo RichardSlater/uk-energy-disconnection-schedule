@@ -1,0 +1,25 @@
+.load-block {
+    width: 720px;
+    display: table;
+    table-layout: fixed;
+}
+
+.load-block li
+{
+    display: table-cell;
+    text-align: center;
+}
+
+.load-block li a {
+    border: 2px solid grey;
+    display: block;
+    box-shadow: none;
+    height: 2em;
+    width: 2em;
+    margin: 3px;
+}
+
+.load-block li a:hover {
+    background-color: grey;
+    color: black;
+}

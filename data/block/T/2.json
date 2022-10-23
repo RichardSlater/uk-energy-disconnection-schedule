@@ -1,0 +1,68 @@
+[
+  {
+    "level": 2,
+    "day": "Thursday",
+    "block": "T",
+    "period": 8,
+    "times": {
+      "start": "21:30:00",
+      "end": "1.00:30:00"
+    },
+    "timeframe": "21:30-00:30"
+  },
+  {
+    "level": 2,
+    "day": "Friday",
+    "block": "T",
+    "period": 2,
+    "times": {
+      "start": "03:30:00",
+      "end": "06:30:00"
+    },
+    "timeframe": "03:30-06:30"
+  },
+  {
+    "level": 2,
+    "day": "Friday",
+    "block": "T",
+    "period": 4,
+    "times": {
+      "start": "09:30:00",
+      "end": "12:30:00"
+    },
+    "timeframe": "09:30-12:30"
+  },
+  {
+    "level": 2,
+    "day": "Saturday",
+    "block": "T",
+    "period": 1,
+    "times": {
+      "start": "00:30:00",
+      "end": "03:30:00"
+    },
+    "timeframe": "00:30-03:30"
+  },
+  {
+    "level": 2,
+    "day": "Saturday",
+    "block": "T",
+    "period": 5,
+    "times": {
+      "start": "12:30:00",
+      "end": "15:30:00"
+    },
+    "timeframe": "12:30-15:30"
+  },
+  {
+    "level": 2,
+    "day": "Sunday",
+    "block": "T",
+    "period": 6,
+    "times": {
+      "start": "15:30:00",
+      "end": "18:30:00"
+    },
+    "timeframe": "15:30-18:30"
+  }
+]
